@@ -1,0 +1,37 @@
+{ 
+    "name1": "Hi, I'm ",
+    "name2": "Mike Kwak.",
+    "name3": "A Web Developer.",
+    "description": "I'm a Front-End Developer and a software engineering student at University of Waterloo, Canada!\nI am actively giving life to my entrepreneurial ideas using my programming skills.",
+    "resume": "View Resume",
+    
+    "who" : "Who I am",
+    "about": "Thank you for visiting my website! My name is Mike Kwak, currently a software engineering student at University of Waterloo in Canada.\n\nI truly know that there is no mountain I cannot conquer if I put my mind to it. No matter how steep and dangerous, with a strategic, brave, determined, and obsessive mindset, I will be on top, searching for bigger mountains to climb.",
+    "project": "Projects Completed",
+    "programming":"Years of Programming",
+    "competition":"Coding Competition",
+    "internship":"internship Completed",
+    "skills": "My Skills",
+    "timeline": "My timeline",
+    "present": "PRESENT",
+    "month": "months",
+    "student": "Software Engineering Co-op Student",
+    "university": "University of Waterloo",
+    "uniDescription": "I am enrolled in a 5 year long curriculum that combines theoretical nowledge, practical skills, and industry experience.",
+    "developer": "web developer",
+    "intern": "intern",
+    "neowiz": "neowiz, inc.",
+    "neoDescription": "I interned in the web service development team where I deployed and improved my full-stack development skills.",
+    "vancouver": "North Vancouver, BC",
+    "schDescription": "I was a student council member and the captain of the school soccer team.",
+    "freelance":"Freelance",
+    "freDescription": "I developed online marketing platform for local business during the pandemic.",
+
+    "portfolio": "here is some of my work that I've done in various proramming languages.",
+
+    "contact": "contact me here",
+    "conDescription": "If you have any question, pleas feel free to shoot me an email or fill in the form on the right! Happy Programming!!",
+
+    "activeEng":"active",
+    "activeKor": ""
+}
