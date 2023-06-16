@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node src/app.js",
+    "deploy": "scp dist/en-us.index.html https://github.com/MikeKwak/myPortfolio"
   },
   "keywords": [],
   "author": "",
