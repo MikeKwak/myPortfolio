@@ -2,9 +2,10 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
-    "build": "node src/app.js"
+    "start": "node src/app.js",
+    "build": "npm run start"
   },
   "keywords": [],
   "author": "",
